@@ -1,0 +1,5 @@
+Single Sample:
+Mean Latency: 7.196664810180665e-05 seconds, Stdev: 4.5193739071054945e-05 seconds
+
+Batched Sample:
+Mean Latency: 8.588099479675293e-05 seconds, Stdev: 2.2448355066092172e-05 seconds
